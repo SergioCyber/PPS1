@@ -1,3 +1,11 @@
+"""
+Realiza, utilizando Python 3, un programa llamado binario.py que pida al usuario que
+introduzca un número binario e imprima por pantalla el número en formato decimal.
+"""
+
+
+
+
 def esBinario (strbinario):
     
     
@@ -9,6 +17,9 @@ def esBinario (strbinario):
     except TypeError:
         return False
 
+    
+    
+    
     
 def ext (bin):
     try:
